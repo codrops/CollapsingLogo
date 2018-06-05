@@ -2,7 +2,7 @@
 
 A recreation of the collapsing logo effect seen on [PracticalVR](https://experience.practicalvr.com/).
 
-![Image Title](link)
+![Collapsing Logo Effect](https://tympanus.net/codrops/wp-content/uploads/2018/06/CollapsingLogoEffect_featured.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=35022)
 
