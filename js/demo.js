@@ -52,6 +52,7 @@
 		}
 		layout() {
 			this.DOM.el.style.transform = `scaleX(${winsize.width/this.boxRect.width}) scaleY(${winsize.height/this.boxRect.height})`;
+			document.body.classList.remove('loading');
 		}
 		initEvents() {
 			this.DOM.enter.addEventListener('click', (ev) => {
